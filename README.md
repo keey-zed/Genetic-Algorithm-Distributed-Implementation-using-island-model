@@ -40,8 +40,7 @@ The implementation uses the concept of chromosomes, fitness evaluation, crossove
 Feel free to customize the description, instructions, and file paths based on your specific setup and needs. Make sure to replace your-username, your-repo, your-path-to-jade.jar, and any other placeholders with the appropriate values.
 Additionally, ensure that the JADE library (jade.jar) is available in the classpath when compiling and running the code.
 Note: If you encounter any issues, please refer to the JADE documentation for troubleshooting and further guidance.  
-  
-  
-  
-  
-  
+
+## Screenshots  
+[src/main/ma/enset/screenshots/First.png](https://github.com/khawla-dev/Genetic-Algorithm-Distributed-Implementation-using-island-model/blob/2fe695d89de2e9d1a9518b9d53ee8d169926d6b2/src/main/ma/enset/screenshots/First.png)
+[src/main/ma/enset/screenshots/Second.png](https://github.com/khawla-dev/Genetic-Algorithm-Distributed-Implementation-using-island-model/blob/2fe695d89de2e9d1a9518b9d53ee8d169926d6b2/src/main/ma/enset/screenshots/Second.png)
