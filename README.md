@@ -12,9 +12,9 @@ The implementation uses the concept of chromosomes, fitness evaluation, crossove
 
 ## Usage
 1. Clone the repository :
-   ```bash
-   $ git clone https://github.com/khawla-dev/Genetic-Algorithm-Distributed-Implementation-using-island-model.git
-   ```
+  ```bash
+  $ git clone https://github.com/khawla-dev/Genetic-Algorithm-Distributed-Implementation-using-island-model.git
+  ```
 
 2. Compile the Java code :
   ```bash
