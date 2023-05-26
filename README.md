@@ -42,5 +42,5 @@ Additionally, ensure that the JADE library (jade.jar) is available in the classp
 Note: If you encounter any issues, please refer to the JADE documentation for troubleshooting and further guidance.  
 
 ## Screenshots  
-[src/main/ma/enset/screenshots/First.png](https://github.com/khawla-dev/Genetic-Algorithm-Distributed-Implementation-using-island-model/blob/2fe695d89de2e9d1a9518b9d53ee8d169926d6b2/src/main/ma/enset/screenshots/First.png)
-[src/main/ma/enset/screenshots/Second.png](https://github.com/khawla-dev/Genetic-Algorithm-Distributed-Implementation-using-island-model/blob/2fe695d89de2e9d1a9518b9d53ee8d169926d6b2/src/main/ma/enset/screenshots/Second.png)
+![](./src/main/ma/enset/screenshots/First.png)
+![](./src/main/ma/enset/screenshots/Second.png)
